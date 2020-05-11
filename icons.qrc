@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/bongo-drum-500x500.jpg</file>
+        <file>icons/first drum.jpg</file>
+        <file>icons/guitar.png</file>
+    </qresource>
+</RCC>    
